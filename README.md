@@ -41,3 +41,9 @@ to an image that you have uploaded.
 <a href="https://imgur.com/1NkyYm8"><img src="https://i.imgur.com/1NkyYm8.png" title="source: imgur.com" /></a>
 
 - Do __not__ make the application a 'Bot user'!
+
+--------
+
+### Credits
+
+- IllusiveTea - For telling me about these natives :p
