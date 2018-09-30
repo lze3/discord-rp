@@ -12,11 +12,11 @@ end
 
 Citizen.CreateThread(function()
     
-    SetData()
+    SetRP()
     
     while true do
         Citizen.Wait(2500)
-        SetData()
+        SetRP()
     end
 
 end)
