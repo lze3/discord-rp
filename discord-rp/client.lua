@@ -11,12 +11,5 @@ function SetRP()
 end
 
 Citizen.CreateThread(function()
-    
     SetRP()
-    
-    while true do
-        Citizen.Wait(2500)
-        SetRP()
-    end
-
 end)
